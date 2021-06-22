@@ -1,0 +1,67 @@
+.bg-dark{
+    background :#343a40!important;
+}
+
+.html { 
+    background: url(images/bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.card{
+    border-radius: 0;
+    border: 1px solid #0f0b0f
+}
+
+.form-search-c{
+    border: 1px solid #d41811;
+    padding: 10px
+}
+
+.link-image-product{
+    padding: 10px;
+
+}
+
+.card-title a{
+    color: #000000
+}
+
+.card-title a:hover{
+    color:#230bfa;
+    text-decoration: none;
+}
+
+.btn-beli{
+    width: 1005;
+    height: 100%;
+    background: #00b7ff;
+    text-align: center;
+    color: #fff;
+    display: block;
+    padding: 5px;
+
+}
+
+.btn-beli:hover{
+    background: #068c;
+    text-decoration:none;
+    color:#fff;
+
+}
+
+.list-group a{
+    color: #c50466;
+    font-weight: 600;
+}
+
+.navbar-brand img{
+    max-width: 75px;
+    
+}
+
+.card-img-top{
+    max-height: 235px;
+}
